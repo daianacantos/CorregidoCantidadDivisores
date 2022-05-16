@@ -1,0 +1,2 @@
+# CorregidoCantidadDivisores
+Created with CodeSandbox
